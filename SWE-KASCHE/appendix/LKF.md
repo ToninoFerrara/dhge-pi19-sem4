@@ -80,7 +80,7 @@
   - Item im Product Backlog
     - ist klein genug für Sprint
     - ist verständlich
-    - hat Aktzeptanzkriterien
+    - hat Akzeptanzkriterien
     - ...
 
 - Definition of Done: Wann ist die Aufgabe/Projekt erledigt?
